@@ -1,6 +1,6 @@
 # Read the "Individual household electric power consumption Data Set" and Plot graphs
 # Make Timeseries graph for Global_active_power for the Period  02/01/2007 to 02/02/2007
-# Save the graph as plot2.png file
+# Save the graph as plot2.png file.
 
 #Create a Folder to Save the data File (if not already present)
 fldr <- "mydata"
