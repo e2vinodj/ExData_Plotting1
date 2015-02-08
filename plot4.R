@@ -1,5 +1,5 @@
 # Read the "Individual household electric power consumption Data Set" and Plot graphs
-# Make Multiple graphs (four blocks) in one page and save as PNG File (plot4.png)
+# Make Multiple graphs (four blocks) in one page and save as PNG File (plot4.png).
 # In Quadrant-1 - Plot Timeseries graph for Global_active_power for the Period  02/01/2007 to 02/02/2007
 # In Quadrant-2 - Plot Timeseries graph for Voltage for the Period  02/01/2007 to 02/02/2007
 # In Quadrant-3 - Plot Timeseries graph for Sub_metering_1, Sub_metering_2, Sub_metering_3 for the Period  02/01/2007 to 02/02/2007
