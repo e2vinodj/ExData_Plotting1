@@ -30,7 +30,7 @@ tblhpwrSelect <- subset(tblhpwr, as.Date(Date.Time) >= "2007-02-01" & as.Date(Da
 
 # Draw Plot-1 into a PNG File
 
-# Save the histogram to the PNG file (plot2.png). Default is 480X480 
+# Save the histogram to the PNG file (plot1.png). Default is 480X480 
 
 png("plot1.png")
 hist(as.numeric(tblhpwrSelect$Global_active_power), xlab="Global Active Power (kilowatts)", main="Global Active Power", col="red")
