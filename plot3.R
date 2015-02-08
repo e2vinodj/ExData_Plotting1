@@ -1,6 +1,6 @@
 # Read the "Individual household electric power consumption Data Set" and Plot graphs
 # Make Timeseries graph for Sub_metering_1, Sub_metering_2, Sub_metering_3 for the Period  02/01/2007 to 02/02/2007
-# Save the graph as plot3.png file
+# Save the graph as plot3.png file.
 
 #Create a Folder to Save the data File (if not already present)
 fldr <- "mydata"
